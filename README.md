@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📄 Nastro Web Page
 
 The Nastro Web Page is a simple and modern website designed with two main sections: Home and Web Page. It serves as a clean and user-friendly interface for showcasing content in an organized layout. The project focuses on minimalist design, smooth navigation, and responsive structure, making it suitable for personal, portfolio, or demo purposes.
@@ -25,3 +26,6 @@ HTML
 CSS
 
 JavaScript
+=======
+# Nostra
+>>>>>>> FETCH_HEAD
